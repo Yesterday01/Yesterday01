@@ -1,4 +1,4 @@
-## Hi there 👋
+## Acerca de mi 👋
 
 <!--
 **Yesterday01/Yesterday01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+¡Bienvenida/o a mi perfil de GITHUB!🤓
+Mi nombre es José Antonio, soy Ingeniero en Sistemas Computacionales 🖥 y estudié en el Instituto Tecnologico de Oaxaca.
+Actualmente he desarrollado sistemas web, de escritorio y aplicaciones móviles.
+
